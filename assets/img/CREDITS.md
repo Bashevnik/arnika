@@ -1,0 +1,11 @@
+# Photo credits (Pexels)
+- hero/hero.jpg — Taryn Elliott
+- rooms/spa.jpg — https://kaboompics.com/
+- rooms/massage.jpg — KoolShooters
+- rooms/water.jpg — RDNE Stock project
+- rooms/r1.jpg — Max Vakhtbovych
+- rooms/physio.jpg — Kampus Production
+- rooms/r2.jpg — Max Vakhtbovych
+- infra/pool.jpg — Andrea Piacquadio
+- infra/nature.jpg — Lauri Poldre
+- infra/build.jpg — Quang Nguyen Vinh
